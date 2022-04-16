@@ -3,3 +3,4 @@ src/
 tests/
 index.js
 package.json
+.gitignore
