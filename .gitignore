@@ -1,6 +1,9 @@
 lib/
 src/
 tests/
+node_modules/
 index.js
 package.json
+package-lock.json
+
 .gitignore
