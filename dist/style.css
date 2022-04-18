@@ -36,15 +36,10 @@
   color: white;
   width: 20rem;
 }
-.list-stuff{
-    list-style-type: none;
-    
-    justify-content: center;
-    
-}
+
 
 .list-stuff h6{
-  /* border: 1px solid black; */
+
   padding: 5px;
   margin-top: 5px;
   
